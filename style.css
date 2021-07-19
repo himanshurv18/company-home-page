@@ -1,0 +1,132 @@
+body
+{
+    background-color: #f2f2f2;
+}
+.navbar-inverse
+{
+
+    border: none !important;
+    background: linear-gradient(to right, #b22af7 30% ,#8722b9 70% );
+    padding: 22px;
+    font-size: 17px;
+}
+.navbar.navbar-inverse
+{
+    margin: 0 !important;
+}
+.navbar-nav
+{
+    padding: 0 0 0 20px; 
+}
+.navbar-right
+{
+   margin-right: 100px; 
+}
+
+.navbar-inverse .navbar-nav>li>a
+{
+    color: #fff !important;
+    font-weight: bolder;
+}
+ul.nav a:hover
+ { 
+     color: #fff !important;
+ }
+#brand
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+}
+.btn
+{
+    border-radius: 15px !important;
+}
+.navbot
+{
+    padding-top: 85px;
+    padding-left: 95px;
+    padding-bottom: 15px;
+    color: #fff;
+    margin: 0;
+}
+#ip1 {
+    border-radius: 18px 0 0 18px;
+    border:none;
+    padding: 20px; 
+    width: 200px;
+    height: 17px;    
+}
+.input-icons
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#heading1
+{
+    line-height: 50px;
+     margin-top: 25px;
+}
+#inbtn
+{
+   padding: 9.8px; 
+   margin-left: -4px !important;
+   border: none;
+   border-radius: 0 18px  18px 0;
+   background-color: #2951f2;
+}
+#hrpro
+{
+    background-color: #E4FBFF;
+    height: 650px;
+    width: 100%;
+    color: #5590e8;
+}
+.fas
+{
+    padding: 35px 0 0 50px;
+    size: 25px;
+    color: #5590e8;
+    display: inline;
+}
+#hrpro h1,h4
+{
+    font-size: 50px;
+}
+.card
+{
+    padding: 30px 0 70px 120px;
+}
+#emp
+{
+    display: inline;
+    float: right;
+}
+.card-img-top
+{
+    float: left;
+}
+#payroll
+{
+    background-color: #d1caca;
+    color: #4c75db;
+    border-radius: 0 0 94% 0;
+    border-left: 2px violet;
+    border-bottom: 2px violet;
+}
+#benefits
+{   
+    color: white;
+    background-color: violet;
+}
+#platform
+{
+    margin-bottom: 50px;
+}
+#why
+{    
+    margin: 0;
+    padding: 0;
+    background-color: #E4FBFF;
+    height: 420px;
+}
